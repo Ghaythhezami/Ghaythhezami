@@ -1,7 +1,6 @@
 Hi, I'm Ghayth Khezami
-A Full Stack Developer.
-Recently graduated with a degree in Software Engineering and Information Systems, I have a strong passion for entrepreneurship and developing innovative solutions to address contemporary technological challenges. My academic background has equipped me with a solid foundation in software development, system analysis, problem-solving skills, and cloud computing.
-About Me
+Full Stack Developer with 2+ years of professional experience delivering scalable web and mobile applications,
+cloud infrastructure, and CI/CD automation. Graduated in Software Engineering and Information Systems , currently pursuing an evening Software Engineering degree at Tekup University. Holds the National Status of Student Entrepreneur (PEEJ). 10+ national and international hackathon wins. Strong command of full stack JS ecosystems, AWS cloud architecture, REST API design, WebSockets, and DevOps pipelines.
 👀 I’m interested in:
 Entrepreneurship, Innovative Solutions, Cloud Computing, and Solving Real-World Problems with Technology.
 
